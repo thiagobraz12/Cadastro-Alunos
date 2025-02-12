@@ -16,7 +16,7 @@ namespace CadastroAlunos
         {
             try
             {
-                string strconexao = "server=localhost;port=3306;uid=root;pwd=123456;database=cadastroprofessor";
+                string strconexao = "server=localhost;port=3306;uid=root;pwd=123456;database=CadastroAlunos";
                 conexao = new MySqlConnection(strconexao);
                 conexao.Open();
                 //Console.WriteLine("Conectado!");
