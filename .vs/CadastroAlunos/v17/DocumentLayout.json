@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cartu\\source\\repos\\CadastroAlunos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADF3E74E-4A53-4756-9154-5F879D374C8B}|CadastroAlunos.csproj|c:\\users\\cartu\\source\\repos\\cadastroalunos\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF3E74E-4A53-4756-9154-5F879D374C8B}|CadastroAlunos.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADF3E74E-4A53-4756-9154-5F879D374C8B}|CadastroAlunos.csproj|c:\\users\\cartu\\source\\repos\\cadastroalunos\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADF3E74E-4A53-4756-9154-5F879D374C8B}|CadastroAlunos.csproj|solutionrelative:conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\CadastroAlunos\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\cartu\\source\\repos\\CadastroAlunos\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:58:52.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\CadastroAlunos\\Conexao.cs",
               "RelativeDocumentMoniker": "Conexao.cs",
               "ToolTip": "C:\\Users\\cartu\\source\\repos\\CadastroAlunos\\Conexao.cs",
               "RelativeToolTip": "Conexao.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T13:35:42.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cartu\\source\\repos\\CadastroAlunos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,7 +68,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T02:12:54.182Z"
+              "WhenOpened": "2025-02-12T02:12:54.182Z",
+              "EditorCaption": ""
             }
           ]
         }
